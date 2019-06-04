@@ -1,5 +1,5 @@
 # Yenten GUI CPU miner (multi coins)
-GUI miner for CPU coins
+*GUI miner for CPU coins*
 
 Supported algorithms:
  - yespower
