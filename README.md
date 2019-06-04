@@ -7,7 +7,7 @@ Supported algorithms:
  
  Supported coins:
   - Yenten
-  - Craneyap
+  - Cranepay
   
   Supported pools:
    - cpu-pool
