@@ -17,3 +17,5 @@ Supported algorithms:
    - antminepool
    
    **Easy mining for cool mining...**
+   
+   ![screenshot](https://raw.githubusercontent.com/yentencoin/ytn-gui-cpuminer/master/web/v04_01.png)
