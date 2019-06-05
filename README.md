@@ -16,6 +16,9 @@ Supported algorithms:
    - bpool
    - antminepool
    
+   **Downloads:**
+    - https://github.com/yentencoin/ytn-gui-cpuminer/releases
+   
    **Instructions:**
    - на Русском - https://github.com/yentencoin/ytn-gui-cpuminer/blob/master/web/help_rus.md
    - in English - https://github.com/yentencoin/ytn-gui-cpuminer/blob/master/web/help_eng.md
