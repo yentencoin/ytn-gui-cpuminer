@@ -12,6 +12,7 @@ Supported algorithms:
   Supported pools:
    - cpu-pool
    - rplant pool
+   - p2pool
    - bpool
    - antminepool
    
