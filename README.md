@@ -4,10 +4,12 @@
 Supported algorithms:
  - yespower
  - yespowerr16
+ - yespowerurx
  
  Supported coins:
   - Yenten
   - Cranepay
+  - Uranium-X
   
   Supported pools:
    - cpu-pool
