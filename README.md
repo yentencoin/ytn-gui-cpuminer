@@ -17,6 +17,7 @@ Supported algorithms:
    - p2pool
    - bpool
    - antminepool
+   - uranium-x.net
    
    **Downloads:**
   - https://github.com/yentencoin/ytn-gui-cpuminer/releases
@@ -27,4 +28,4 @@ Supported algorithms:
    
    **Easy mining for cool mining...**
    
-   ![screenshot](https://raw.githubusercontent.com/yentencoin/ytn-gui-cpuminer/master/web/v04_01.png)
+   ![screenshot](https://raw.githubusercontent.com/yentencoin/ytn-gui-cpuminer/master/web/img/05.png)
