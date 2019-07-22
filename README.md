@@ -12,7 +12,8 @@ Supported algorithms:
   - Uranium-X
   
   Supported pools:
-   - cpu-pool
+   - cpu-pool.com
+   - yenten-pool.info
    - rplant pool
    - p2pool
    - bpool
@@ -28,4 +29,4 @@ Supported algorithms:
    
    **Easy mining for cool mining...**
    
-   ![screenshot](https://raw.githubusercontent.com/yentencoin/ytn-gui-cpuminer/master/web/img/05.png)
+   ![screenshot](https://raw.githubusercontent.com/yentencoin/ytn-gui-cpuminer/master/web/img/061.png)
