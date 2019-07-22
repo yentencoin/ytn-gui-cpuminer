@@ -5,11 +5,13 @@ Supported algorithms:
  - yespower
  - yespowerr16
  - yespowerurx
+ - cpupower
  
  Supported coins:
   - Yenten
   - Cranepay
   - Uranium-X
+  - CPUchain
   
   Supported pools:
    - cpu-pool.com
@@ -29,4 +31,4 @@ Supported algorithms:
    
    **Easy mining for cool mining...**
    
-   ![screenshot](https://raw.githubusercontent.com/yentencoin/ytn-gui-cpuminer/master/web/img/061.png)
+   ![screenshot](https://raw.githubusercontent.com/yentencoin/ytn-gui-cpuminer/master/web/img/07.png)
