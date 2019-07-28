@@ -22,6 +22,7 @@ Supported algorithms:
    - antminepool
    - uranium-x.net
    - pool.cpuchain.org
+   - cpu.skypool.co
    
    **Downloads:**
   - https://github.com/yentencoin/ytn-gui-cpuminer/releases
